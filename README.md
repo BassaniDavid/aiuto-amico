@@ -1,6 +1,8 @@
 # Aiuto-Amico
 
-## Progetto per implementare ChatGPT in una pagina web che possa simulare un interazione con un analista.
+#### Progetto per implementare ChatGPT in una pagina web che possa simulare un interazione con un analista.
+
+---
 
 ### Tecnologie Utilizzate
 
